@@ -1,5 +1,7 @@
 Treasure Class	group	level	Picks	Unique	Set	Rare	Magic	NoDrop	Item1	Prob1	Item2	Prob2	Item3	Prob3	Item4	Prob4	Item5	Prob5	Item6	Prob6	Item7	Prob7	Item8	Prob8	Item9	Prob9	Item10	Prob10	*ItemProbSum	*ItemProbTotal	*TreasureClassDropChance	firstLadderSeason	lastLadderSeason	noAlwaysSpawn	*eol
 Gold			1					4	gld,mul=1024	1																									0
+Blank TC			1					100																											0
+NDTC			1						gld	2	Blank TC	98																							0
 Gold 2x			1					4	gld,mul=2048	1																									0
 Gold 2.5x			1					4	gld,mul=2560	1																									0
 Gold 3x			1					4	gld,mul=3072	1																									0
@@ -1048,15 +1050,15 @@ Countess Item (H) Desecrated C			5					19	gld,mul=2048	11	Act 4 (H) Equip C	19	A
 Countess Item (H) Desecrated D			5					19	gld,mul=2048	11	Act 5 (H) Equip A	19	Act 5 (H) Junk	15	Act 5 (H) Good	3	pk1	1	ka3	3															0
 Countess Item (H) Desecrated E			5					19	gld,mul=2048	11	Act 5 (H) Equip B	19	Act 5 (H) Junk	15	Act 5 (H) Good	3	pk1	1	ka3	3															0
 Countess Item (H) Desecrated F			5					19	gld,mul=2048	11	Act 5 (H) Equip C	19	Act 5 (H) Junk	15	Act 5 (H) Good	3	pk1	1	ka3	3															0
-Countess			-2	883	883	883	1024	0	Countess Item	1	Countess Rune	1																							0
+Countess			-2	883	883	883	1024	0	Countess Rune	1	Countess Item	1																							0
 Countess Desecrated A	35	11	-2	883	883	883	1024	0	Countess Item Desecrated A	1	Countess Rune	1																							0
 Countess Desecrated B	35	34	-2	883	883	883	1024	0	Countess Item Desecrated B	1	Countess Rune	1																							0
 Countess Desecrated C	35	48	-2	883	883	883	1024	0	Countess Item Desecrated C	1	Countess Rune	1																							0
-Countess (N)			-2	883	883	983	1024	0	Countess Item (N)	1	Countess Rune (N)	1																							0
+Countess (N)			-2	883	883	983	1024	0	Countess Rune (N)	1	Countess Item (N)	1																							0
 Countess (N) Desecrated A	35	45	-2	883	883	983	1024	0	Countess Item (N) Desecrated A	1	Countess Rune (N) Desecrated	1																							0
 Countess (N) Desecrated B	35	59	-2	883	883	983	1024	0	Countess Item (N) Desecrated B	1	Countess Rune (N) Desecrated	1																							0
 Countess (N) Desecrated C	35	73	-2	883	883	983	1024	0	Countess Item (N) Desecrated C	1	Countess Rune (N) Desecrated	1																							0
-Countess (H)			-2	883	883	983	1024	0	Countess Item (H)	1	Countess Rune (H)	1																							0
+Countess (H)			-2	883	883	983	1024	0	Countess Rune (H)	1	Countess Item (H)	1																							0
 Countess (H) Desecrated A	35	82	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated A	1	Countess Rune (H) Desecrated	1																					0
 Countess (H) Desecrated B	35	84	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated B	1	Countess Rune (H) Desecrated	1																					0
 Countess (H) Desecrated C	35	87	-3	883	883	983	1024	0	Sunder Charms	1	Countess Item (H) Desecrated C	1	Countess Rune (H) Desecrated	1																					0
@@ -1138,3 +1140,10 @@ Act 5 (H) Super Ax Desecrated	39	90	-2					0	Sunder Charms	1	Act 5 (H) Super Ax	
 Act 5 (H) Super Bx Desecrated	39	93	-2					0	Sunder Charms	1	Act 5 (H) Super Bx	1																							0
 Act 5 (H) Super Cx Desecrated	39	96	-2					0	Sunder Charms	1	Act 5 (H) Super Cx	1																							0
 Act 1 Super A + t1 Splash Charm		0	-5	800	800	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	2	t1 Splash Charm	1																					0
+Act 3 Elite A	23	20	2	256		768	1024	100	NDTC	42	Act 3 Equip A	49	Act 3 Good	4																					0
+Act 5 Elite A	23	32	2	256		768	1024	100	NDTC	42	Act 5 Equip A	49	Act 5 Good	4																					0
+Act 5 Elite C	23	36	2	256		768	1024	100	NDTC	42	Act 5 Equip C	49	Act 5 Good	4																					0
+Act 3 (N) Elite A	23	46	2	256		768	1024	100	NDTC	42	Act 3 (N) Equip A	49	Act 3 (N) Good	4																					0
+Act 5 (N) Elite C	23	62	2	256		768	1024	100	NDTC	42	Act 5 (N) Equip C	49	Act 5 (N) Good	4																					0
+Act 3 (H) Elite A	23	74	2	256		768	1024	100	NDTC	42	Act 3 (H) Equip A	49	Act 3 (H) Good	4																					0
+Act 5 (H) Elite C	23	85	2	256		768	1024	100	NDTC	42	Act 5 (H) Equip C	49	Act 5 (H) Good	4																					0

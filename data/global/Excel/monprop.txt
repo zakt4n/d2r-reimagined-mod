@@ -16,3 +16,4 @@ spiritwolf	att-skill	100	378	35	1																										att-skill	100	378	35	
 fenris	att-skill	100	379	35	1																										att-skill	100	379	35	1																										att-skill	100	379	35	1																										0
 druidbear	att-skill	100	380	35	1																										att-skill	100	380	35	1																										att-skill	100	380	35	1																										0
 solarvine	openwounds			100	100																										openwounds			100	100																										openwounds			100	100																										0
+other	mon-buff	25		25	25	hit-skill		483	100	1	death-skill		484	100	1																mon-buff	50		50	50	hit-skill		483	100	1	death-skill		484	100	1																mon-buff	75		75	75	hit-skill		483	100	1	death-skill		484	100	1	red-dmg%	2		75	75											0
