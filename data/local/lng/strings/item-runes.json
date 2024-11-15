@@ -4367,5 +4367,39 @@
         "ptBR": "Snowdrop",
         "ruRU": "Snowdrop",
         "zhCN": "Snowdrop"
+    },
+    {
+        "id": 30021,
+        "Key": "Rapture",
+        "enUS": "Rapture",
+        "zhTW": "狂喜",
+        "deDE": "Entrückung",
+        "esES": "Rapto",
+        "frFR": "Ravissement",
+        "itIT": "Rapimento",
+        "koKR": "황홀경",
+        "plPL": "Zachwyt",
+        "esMX": "Rapto",
+        "jaJP": "携挙",
+        "ptBR": "Arrebatamento",
+        "ruRU": "Восторг",
+        "zhCN": "狂喜"
+    },
+    {
+        "id": 30022,
+        "Key": "Jack",
+        "enUS": "Jack",
+        "zhTW": "傑克",
+        "deDE": "Entrückung",
+        "esES": "Jacobo",
+        "frFR": "Jack",
+        "itIT": "Jack",
+        "koKR": "잭",
+        "plPL": "Podnośnik",
+        "esMX": "Jacobo",
+        "jaJP": "ジャック",
+        "ptBR": "Jack",
+        "ruRU": "Джек",
+        "zhCN": "杰克"
     }
 ]

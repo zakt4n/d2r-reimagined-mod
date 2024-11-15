@@ -189,3 +189,5 @@ Peace	Peace	1			111	tors									ShaelThulAmn	r13	r10	r11				hit-skill	Valkyrie	
 Principle	Principle	1			111	tors									RalGulEld	r08	r25	r02				hit-skill	Holy Bolt	100	5	pal		2	2	hp		100	150	dmg-undead		50	50													0
 Snowdrop	Snowdrop	1			111	staf									TirThul	r03	r10					skilltab	5	3	3	mana/lvl	16			res-fire		33	33	skill	Shiver Armor	3	3	skill	Glacial Spike	3	3	skill	Warmth	3	3	skill	Frost Nova	3	3	0
 Scout	Scout	1			111	helm									ElNef	r01	r04					move2		10	10	balance2		10	10	dex		5	5	light		11	11	oskill	Dodge	1	1									0
+Jack	Jack	1				axe									LumBer	r17	r30					swing1		25	25	dmg		250	250	heal-hit		10	10	dmg-ac		200	300	allskills		3	3	dru		1	1	dru		1	1	0
+Rapture	Rapture	1				hamm									VexJahLoRalKoMal	r26	r31	r28	r08	r18	r23	hit-skill	Eruption	14	46	hit-skill	Lower Resist	20	35	swing1		20	20	dmg%		240	280	res-cold		40	60	gold%		80	120					0
