@@ -199,3 +199,12 @@ battleorders1	196					1																																					bladeshield					batt
 barbed	197					1																																												damageresist																							0
 carrionvine	198					1																																												hitpoints																							0
 ongoing_typhoidmary	199																																										cyclonearmor2front	cyclonearmor2back													38	1	192	255	192		object_barrel_explode						146				0
+power_charged	200																																																																								0
+frenzy_charged	201																																																																								0
+endurance_charged	202																																																																								0
+ongoing_thunderdome	203																																										cyclonearmor3front	cyclonearmor3back													44	1	64	192	255		object_barrel_explode						146				0
+warpfieldactive	204																			1																							warpfield_aura					curse_hit		attackrate							60	102	128	0	0												0
+galioami	205													1																																				velocitypercent							110	74	255	144	144	idolofscosglen_on	idolofscosglen_burst						146				0
+shower_of_rox	206						1													1																							greenamp					curse_hit		item_tohit_percent							120	1	0	255	0	necromancer_confuse	object_barrel_explode										0
+justbeenhit	207																																										justbeenhitcurse							event_hit2																							0
+justkilledenemy	208																																																	hpregen																							0

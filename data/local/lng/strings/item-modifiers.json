@@ -7070,5 +7070,22 @@
         "ptBR": "ÿc4+%d Holy Bolt Projectiles",
         "ruRU": "ÿc4+%d Holy Bolt Projectiles",
         "zhCN": "ÿc4+%d Holy Bolt Projectiles"
+    },
+    {
+        "id": 60026,
+        "Key": "ModitemRetributeSynergy",
+        "enUS": "Retribute Fire Resist Penalty Increased by",
+        "zhTW": "Retribute Fire Resist Penalty Increased by",
+        "deDE": "Retribute Fire Resist Penalty Increased by",
+        "esES": "Retribute Fire Resist Penalty Increased by",
+        "frFR": "Retribute Fire Resist Penalty Increased by",
+        "itIT": "Retribute Fire Resist Penalty Increased by",
+        "koKR": "Retribute Fire Resist Penalty Increased by",
+        "plPL": "Retribute Fire Resist Penalty Increased by",
+        "esMX": "Retribute Fire Resist Penalty Increased by",
+        "jaJP": "Retribute Fire Resist Penalty Increased by",
+        "ptBR": "Retribute Fire Resist Penalty Increased by",
+        "ruRU": "Retribute Fire Resist Penalty Increased by",
+        "zhCN": "Retribute Fire Resist Penalty Increased by"
     }
 ]

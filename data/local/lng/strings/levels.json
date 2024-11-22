@@ -682,7 +682,7 @@
     {
         "id": 828,
         "Key": "Maggot Lair Level 3",
-        "enUS": "Maggot Lair Level 3",
+        "enUS": "Maggot Lair",
         "zhTW": "蛆蟲巢穴第三層",
         "deDE": "Wurmgruft, Ebene 3",
         "esES": "Cubil de Gusanos nivel 3",
@@ -2671,7 +2671,7 @@
     {
         "id": 5031,
         "Key": "Tower Cellar Level 5",
-        "enUS": "Tower Cellar Level 5",
+        "enUS": "Tower Cellar",
         "zhTW": "高塔地牢第五層",
         "deDE": "Turmkeller, Ebene 5",
         "esES": "Sótano de la Torre nivel 5",

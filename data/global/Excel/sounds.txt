@@ -11467,4 +11467,8 @@ meteorstomp_hd3	11464		master	skill\barbarian\meteorstomp3_hd.flac	0	0	0	0	0	150
 shockwavedust_hd1	11465		master	monster\golemclay\spawnclay_hd.flac	0	0	0	0	0	150	150	100	100	3	0	0	0	0	0	0	0	0	1	0	90	255	0	0	1	0	0	-1	-1	-1	0	0	
 shockwavedust_hd2	11466		master	monster\golemclay\spawnclay2_hd.flac	0	0	0	0	0	150	150	100	100	0	0	0	0	0	0	0	0	0	1	0	90	255	0	0	1	0	0	-1	-1	-1	0	0	
 shockwavedust_hd3	11467		master	monster\golemclay\spawnclay3_hd.flac	0	0	0	0	0	150	150	100	100	0	0	0	0	0	0	0	0	0	1	0	90	255	0	0	1	0	0	-1	-1	-1	0	0	
-swarm_noloop	11468			monster\swarm\swarmloop1.flac	0	0	0	0	0	160	160	100	100	0	0	0	0	0	1	0	0	0	1	0	90	75	0	0	1	0	0	-1	-1	-1	0	0	
+swarm_noloop	11468		master	monster\swarm\swarmloop1.flac	0	0	0	0	0	160	160	100	100	0	0	0	0	0	1	0	0	0	1	0	90	75	0	0	1	0	0	-1	-1	-1	0	0	
+mythalcyclone	11469		master	skill\druid\hurricane.flac	0	0	0	0	0	30	30	100	100	0	0	1	3	15	0	0	0	-1	1	0	90	70	0	0	1	0	0	-1	-1	-1	0	0	
+mega_evil	11470		master	taunt\mega_evil.flac	0	0	0	0	0	144	144	100	100	4	0	0	0	0	1	0	0	4	1	0	90	235	0	0	1	1	0	-1	-1	-1	0	0	
+plague_avatar_loop	11471		master	object\poisonloopmedium2.flac	0	0	0	0	0	50	50	100	100	0	0	1	8	8	0	0	0	-1	0	0	90	95	0	0	1	0	0	-1	-1	-1	0	0	
+idol_boom	11472		master	taunt\idol_boom.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	4	1	0	90	235	0	0	1	1	0	-1	-1	-1	0	0	

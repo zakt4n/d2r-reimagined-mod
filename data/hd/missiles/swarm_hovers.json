@@ -224,7 +224,7 @@
                 {
                     "type": "VfxDefinitionComponent",
                     "name": "entity_vfx_swarm_VfxDefinition",
-                    "filename": "data/hd/vfx/particles/character/enemy/swarm1/vfx_swarmh_core.particles",
+                    "filename": "data/hd/vfx/particles/character/enemy/swarm1/vfx_swarmh_coreb.particles",
                     "hardKillOnDestroy": false
                 },
                 {
